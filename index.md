@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Prairie Research Institue, INHS at the University of Illinois"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Prairie Research Institute, INHS, University of Illinois"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "Room 1005 of Forbes Natural History Building<br>1816 South Oak Street, Champaign, IL 61820"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "USA"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
@@ -14,7 +14,7 @@ humantime: "8:45-5pm Thursday/Friday"    # human-readable times for the workshop
 startdate: 2026-04-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2026-04-24        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Deborah Paul", "Elizabeth Wickes"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["", ""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Geoff Ower", ""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["dlpaul@illinois.edu","wickes1@illinois.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -127,6 +127,16 @@ skills to researchers.
   <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more.
 Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
   </em>
+
+Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natural History Survey (INHS) and the <a href="https://speciesfilegroup.org/">Species File Group</a> in collaboration with the School of Information Sciences and the support of the Prairie Research Institute (PRI). 
+
+- **Audience**: We encourage students, staff, and researchers across PRI to apply. Novices expected and welcome.
+- **Content**: Course materials for the Data Carpentry Ecology Lessons have no pre-requisites or expectations for prior experience. Topics include: better spreadsheet skills, using Open Refine (i.e. a tool for cleaning messy data), introduction to SQL (Structured Query Language), and introduction to R, R Analysis and Visualization.
+- **Format**: Course will be in-person only, no recordings.
+- **Cohort**: Limited to 25 people.
+- **Cost**: Course will be **free** (note that preference will be given, for example, to those who can commit to attend all of both days).
+- **Apply Soon**: look for the application link here or in a departmental newsletter or email. You'll be notified by 13th (or sooner) of your acceptance. Apply quickly, demand will also drive what we offer going forward.
+
 </p>
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
