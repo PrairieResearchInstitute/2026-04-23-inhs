@@ -114,7 +114,7 @@ Sign up to receive future editions and read our full archive: <a href="https://c
   </em>
 </p>
 <p>
-Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natural History Survey (INHS) and the <a href="https://speciesfilegroup.org/">Species File Group</a> in collaboration with the School of Information Sciences and the support of the Prairie Research Institute (PRI). 
+Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natural History Survey (INHS) and the <a href="https://speciesfilegroup.org/">Species File Group</a> in the support of the Prairie Research Institute (PRI) and the collaboration of the School of Information Sciences. 
 
 <ul>
   <li><em>Audience</em>: We encourage students, staff, and researchers across PRI to apply. Novices expected and welcome.</li>
