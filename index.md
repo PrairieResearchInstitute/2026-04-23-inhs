@@ -100,14 +100,6 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
-
-<p>
-<strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
-href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
-<a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
-helpers, and supporters who share a mission to teach foundational computational and data science
-skills to researchers. <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more. Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
-</p>
 <p>
 <strong>Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natural History Survey (INHS) and the <a href="https://speciesfilegroup.org/">Species File Group</a> in the support of the Prairie Research Institute (PRI) and the collaboration of the School of Information Sciences. </strong>
 
@@ -120,6 +112,14 @@ skills to researchers. <strong>Want to learn more and stay engaged with The Carp
   <li><em>Apply Soon</em>: look for the application link here or in a departmental newsletter or email. You'll be notified by 13th (or sooner) of your acceptance. Apply quickly, demand will also drive what we offer going forward.
 </li>
 </ul>
+
+<p>
+<strong><a href="https://carpentries.org">The Carpentries</a></strong> project comprises the <a
+href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data Carpentry</a>, and
+<a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
+helpers, and supporters who share a mission to teach foundational computational and data science
+skills to researchers. <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more. Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
+</p>
 
 </p>
 {% if site.carpentry == "swc" %}
