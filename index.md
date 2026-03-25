@@ -122,12 +122,13 @@ href="{{site.swc_site}}">Software Carpentry</a>, <a href="{{site.dc_site}}">Data
 <a href="{{site.lc_site}}">Library Carpentry</a> communities of Instructors, Trainers, Maintainers,
 helpers, and supporters who share a mission to teach foundational computational and data science
 skills to researchers.
-<p align="center">
+<p>
   <em>
   <strong>Want to learn more and stay engaged with The Carpentries?</strong> Carpentries Clippings is The Carpentries' biweekly newsletter, where we share community news, community job postings, and more.
 Sign up to receive future editions and read our full archive: <a href="https://carpentries.org/newsletter/">https://carpentries.org/newsletter/</a>
   </em>
-
+</p>
+<p>
 Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natural History Survey (INHS) and the <a href="https://speciesfilegroup.org/">Species File Group</a> in collaboration with the School of Information Sciences and the support of the Prairie Research Institute (PRI). 
 
 <ul>
@@ -135,7 +136,7 @@ Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natura
   <li><em>Content</em>: Course materials for the Data Carpentry Ecology Lessons have no pre-requisites or expectations for prior experience. Topics include: better spreadsheet skills, using Open Refine (i.e. a tool for cleaning messy data), introduction to SQL (Structured Query Language), and introduction to R, R Analysis and Visualization.</li>
   <li><em>Format</em>: Course will be in-person only, no recordings.</li>
   <li><em>Cohort</em>: Limited to 25 people.</li>
-  <li><em>Cost</em>: Course will be **free** (note that preference will be given, for example, to those who can commit to attend all of both days).</li>
+  <li><em>Cost</em>: Course will be <b>free</b> (note that preference will be given, for example, to those who can commit to attend all of both days).</li>
   <li><em>Apply Soon</em>: look for the application link here or in a departmental newsletter or email. You'll be notified by 13th (or sooner) of your acceptance. Apply quickly, demand will also drive what we offer going forward.
 </li>
 </ul>
