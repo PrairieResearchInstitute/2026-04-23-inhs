@@ -101,7 +101,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 <p>
-<strong>Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natural History Survey (INHS) and the <a href="https://speciesfilegroup.org/">Species File Group</a> in the support of the Prairie Research Institute (PRI) and the collaboration of the School of Information Sciences. </strong>
+<strong>Welcome to the first Data Carpentry Workshop to be hosted by the Illinois Natural History Survey (INHS) and the <a href="https://speciesfilegroup.org/">Species File Group</a> with the support of the Prairie Research Institute (PRI) and the collaboration of the School of Information Sciences. </strong>
 
 <ul>
   <li><em>Audience</em>: We encourage students, staff, and researchers across PRI to apply. Novices expected and welcome.</li>
@@ -109,7 +109,7 @@ the pitch.
   <li><em>Format</em>: Course will be in-person only, no recordings.</li>
   <li><em>Cohort</em>: Limited to 25 people.</li>
   <li><em>Cost</em>: Course will be <b>free</b> (note that preference will be given, for example, to those who can commit to attend all of both days).</li>
-  <li><em>Apply Soon</em>: look for the application link here or in a departmental newsletter or email. You'll be notified by 13th (or sooner) of your acceptance. Apply quickly, demand will also drive what we offer going forward.
+  <li><em>Apply Soon</em>: look for the application link above or in a departmental newsletter or email. You'll be notified by April 13th (or sooner) of your acceptance. Apply quickly, demand will also drive what we offer going forward.
 </li>
 </ul>
 
