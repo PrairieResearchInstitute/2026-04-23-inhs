@@ -106,7 +106,7 @@ the pitch.
 <ul>
   <li><em>Audience</em>: We encourage students, staff, and researchers across PRI to apply. Novices expected and welcome.</li>
   <li><em>Content</em>: Course materials for the Data Carpentry Ecology Lessons have no pre-requisites or expectations for prior experience. Topics include: better spreadsheet skills, using Open Refine (i.e. a tool for cleaning messy data), introduction to SQL (Structured Query Language), and introduction to R, R Analysis and Visualization.</li>
-  <li><em>Format</em>: Course will be in-person only, no recordings.</li>
+  <li><em>Format</em>: Course will be in-person only, no recordings. Lunch provided.</li>
   <li><em>Cohort</em>: Limited to 25 people.</li>
   <li><em>Cost</em>: Course will be <b>free</b> (note that preference will be given, for example, to those who can commit to attend all of both days).</li>
   <li><em>Apply Soon</em>: look for the application link above or in a departmental newsletter or email. You'll be notified by April 13th (or sooner) of your acceptance. Apply quickly, demand will also drive what we offer going forward.
